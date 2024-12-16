@@ -6,10 +6,10 @@ To install all dependencies, type the following into the Terminal (if you're on 
     conda install numpy
 
 Project Requirements:
-* [ ] robot moves
+** [ ] robot moves
 * [ ] robot does not crash into the walls of the box
 * [ ] at least 5 calls to input
-* [ ] at least 5 functions
+** [ ] at least 5 functions
 * [ ] at least 2 functions have at least one parameter
 * [ ] at least 2 functions have return values and at least one call to the function is assigned to a variable
 * [ ] each motor moves at least once
